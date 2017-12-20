@@ -17,14 +17,6 @@ header("location:new_login.php");
 ?>
 
 <html>
-<body>
-
-
-
-</body>
-</html>
-
-<html>
 <head>
 <link href='style1.css' rel='stylesheet' type='text/css' />
 <style>
